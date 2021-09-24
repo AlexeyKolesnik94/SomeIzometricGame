@@ -15,11 +15,11 @@ C:/Unity/LearnProject/SomeIzometricGame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49390
+54153
 Successfully changed project path to: C:/Unity/LearnProject/SomeIzometricGame
 C:/Unity/LearnProject/SomeIzometricGame
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 42.69 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 50.91 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.17f1 (a4537701e4ab)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
@@ -35,35 +35,35 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001511 seconds.
+Registered in 0.001522 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 41.95 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 52.21 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.076 seconds
+- Completed reload, in  1.083 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1076ms)
-		BeginReloadAssembly (51ms)
+	ReloadAssembly (1084ms)
+		BeginReloadAssembly (52ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (410ms)
-			LoadAssemblies (49ms)
+		EndReloadAssembly (421ms)
+			LoadAssemblies (50ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (148ms)
+			SetupTypeCache (150ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (29ms)
-			SetupLoadedEditorAssemblies (170ms)
+			SetupLoadedEditorAssemblies (180ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (42ms)
+				RefreshPlugins (52ms)
 				BeforeProcessingInitializeOnLoad (12ms)
 				ProcessInitializeOnLoadAttributes (82ms)
 				ProcessInitializeOnLoadMethodAttributes (29ms)
@@ -73,34 +73,34 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003943 seconds.
+Registered in 0.003986 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 41.22 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 51.01 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.179 seconds
+- Completed reload, in  1.183 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1180ms)
+	ReloadAssembly (1184ms)
 		BeginReloadAssembly (146ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (967ms)
-			LoadAssemblies (88ms)
+		EndReloadAssembly (973ms)
+			LoadAssemblies (87ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (291ms)
+			SetupTypeCache (286ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (47ms)
-			SetupLoadedEditorAssemblies (415ms)
+			SetupLoadedEditorAssemblies (428ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (41ms)
-				BeforeProcessingInitializeOnLoad (73ms)
-				ProcessInitializeOnLoadAttributes (279ms)
+				RefreshPlugins (51ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (281ms)
 				ProcessInitializeOnLoadMethodAttributes (13ms)
 				AfterProcessingInitializeOnLoad (5ms)
 				EditorAssembliesLoaded (0ms)
@@ -110,14 +110,14 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2091 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 93.0 MB.
 System memory in use after: 93.1 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2528.
-Total: 3.132800 ms (FindLiveObjects: 0.184800 ms CreateObjectMapping: 0.047500 ms MarkObjects: 2.836500 ms  DeleteObjects: 0.063000 ms)
+Total: 3.031800 ms (FindLiveObjects: 0.174700 ms CreateObjectMapping: 0.046400 ms MarkObjects: 2.754400 ms  DeleteObjects: 0.055300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -131,40 +131,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Packages/com.unity.2d.pixel-perfect
-  artifactKey: Guid(915dabe870142d4eb34a5dbf62d6df68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.pixel-perfect using Guid(915dabe870142d4eb34a5dbf62d6df68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f3111682522c8c1cda9d548ab00918') in 0.005464 seconds 
-  Import took 0.008766 seconds .
+  path: Assets/Pallete
+  artifactKey: Guid(5819372fe2e1fef4db36f29ff56d30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallete using Guid(5819372fe2e1fef4db36f29ff56d30e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '815a8e84b997d907dbaf6ae66ee19524') in 0.004293 seconds 
+  Import took 0.007000 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Packages/com.unity.2d.sprite
-  artifactKey: Guid(0901a6b758d060e9422c4f8d588d5895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.sprite using Guid(0901a6b758d060e9422c4f8d588d5895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac9f0859ed1eccac4506b3b2480e9d0') in 0.001899 seconds 
-  Import took 0.005376 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.496546 seconds.
-  path: Packages/com.unity.2d.sprite/CHANGELOG.md
-  artifactKey: Guid(b7007d815829e7644bb81d1f8004a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.sprite/CHANGELOG.md using Guid(b7007d815829e7644bb81d1f8004a340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e5d6b01938a76ac34b9a1add2ab24c') in 0.020275 seconds 
-  Import took 0.023524 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.368835 seconds.
-  path: Packages/com.unity.2d.sprite/LICENSE.md
-  artifactKey: Guid(20ef7441e2dc7954c9ba3a12ffbac4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.sprite/LICENSE.md using Guid(20ef7441e2dc7954c9ba3a12ffbac4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de6b6249dd1aec2847653b7fb2ae93d') in 0.002234 seconds 
-  Import took 0.005598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.580711 seconds.
-  path: Packages/com.unity.2d.sprite/Editor
-  artifactKey: Guid(16fa2ad734f422245b86558310973ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.sprite/Editor using Guid(16fa2ad734f422245b86558310973ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9729fdc7d07b271ef5be2d84a579c6a2') in 0.001752 seconds 
-  Import took 0.005135 seconds .
+  Time since last request: 0.000167 seconds.
+  path: Assets/Pallete/Izometric.prefab
+  artifactKey: Guid(4d57b3d36ea246341b2830a009d336c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallete/Izometric.prefab using Guid(4d57b3d36ea246341b2830a009d336c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52d50c603c5be5d97429ff050926204') in 0.086490 seconds 
+  Import took 0.089104 seconds .
 
